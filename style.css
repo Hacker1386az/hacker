@@ -9,7 +9,7 @@ body {
     background-image: url('f.webp'); /* عکس بکگراند */
     background-size: cover;
     background-position: center;
-    height: 150vh;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -53,7 +53,7 @@ section {
 }
 
 .topic-button img {
-    max-width: 80px; /* اندازه تصویر */
+    max-width: 100px; /* اندازه تصویر */
     border-radius: 5px;
     margin-bottom: 10px;
 }
