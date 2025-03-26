@@ -49,11 +49,11 @@ section {
     flex-direction: column;
     align-items: center;
     transition: transform 0.3s;
-    flex-basis: 30%; /* تنظیم اندازه دکمه */
+    flex-basis: 40%; /* تنظیم اندازه دکمه */
 }
 
 .topic-button img {
-    max-width: 100px; /* اندازه تصویر */
+    max-width: 150px; /* اندازه تصویر */
     border-radius: 5px;
     margin-bottom: 10px;
 }
@@ -70,7 +70,7 @@ section {
 /* Media Query برای موبایل */
 @media (max-width: 600px) {
     h1 {
-        font-size: 2em; /* اندازه فونت کوچکتر در موبایل */
+        font-size: 5em; /* اندازه فونت کوچکتر در موبایل */
     }
     .topic-button {
         flex-basis: 45%; /* دکمه‌ها بزرگتر در موبایل */
