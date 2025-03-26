@@ -102,7 +102,7 @@ section {
 }
 
 .topic-button img {
-    max-width: 220px; /* اندازه تصویر */
+    max-width: 100px; /* اندازه تصویر */
     border-radius: 5px;
     margin-bottom: 10px;
 }
