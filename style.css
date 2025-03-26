@@ -8,7 +8,7 @@ body {
     background-image: url('f.webp'); /* عکس بکگراند */
     background-size: cover;
     background-position: center;
-    min-height: 100vh; /* تغییر به min-height */
+    min-height: 150vh; /* تغییر به min-height */
     display: flex;
     flex-direction: column;
     justify-content: center;
