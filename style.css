@@ -42,7 +42,7 @@ section {
     background-color: rgba(30, 30, 30, 0.8);
     border: 2px solid #6200ea;
     border-radius: 10px;
-    margin: 10px; /* کاهش margin */
+    margin: 100px; /* کاهش margin */
     padding: 15px;
     text-decoration: none;
     display: flex;
@@ -70,7 +70,7 @@ section {
 /* Media Query برای موبایل */
 @media (max-width: 600px) {
     h1 {
-        font-size: 5em; /* اندازه فونت کوچکتر در موبایل */
+        font-size: 2em; /* اندازه فونت کوچکتر در موبایل */
     }
     .topic-button {
         flex-basis: 45%; /* دکمه‌ها بزرگتر در موبایل */
