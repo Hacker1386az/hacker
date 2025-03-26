@@ -53,7 +53,7 @@ section {
 }
 
 .topic-button img {
-    max-width: 100px; /* اندازه تصویر */
+    max-width: 150px; /* اندازه تصویر */
     border-radius: 5px;
     margin-bottom: 10px;
 }
