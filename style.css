@@ -5,7 +5,7 @@ body {
 }
 
 .background-image {
-    background-image: url('f.webp'); /* عکس بکگراند */
+    background-image: url('bac.jpeg'); /* عکس بکگراند */
     background-size: cover;
     background-position: center;
     min-height: 100vh; /* تغییر به min-height */
